@@ -1,0 +1,6 @@
+{
+    "rules": {
+        "quotes": ["error", "off"]
+    },
+    "parser": "babel-eslint"
+}
